@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rever</string>
+    <string name="app_tagline">Plan and track your daily revision effortlessly.</string>
+    
+    <!-- Onboarding -->
+    <string name="get_started">Get Started</string>
+    <string name="welcome_title">Welcome to Rever</string>
+    
+    <!-- Create Subject -->
+    <string name="create_subject">Create Subject</string>
+    <string name="subject_name">Subject Name</string>
+    <string name="subject_description">Description (optional)</string>
+    <string name="next_add_topics">Next: Add Topics</string>
+    
+    <!-- Add Topics -->
+    <string name="add_topics">Add Topics</string>
+    <string name="topic_name">Topic Name</string>
+    <string name="topic_time_hint">Est. time (min)</string>
+    <string name="add_topic">Add Topic</string>
+    <string name="import_topics">Import Topics</string>
+    <string name="import_hint">Paste topics (one per line)</string>
+    <string name="next_set_time">Next: Set Daily Time</string>
+    
+    <!-- Daily Time -->
+    <string name="daily_time_title">Daily Revision Time</string>
+    <string name="daily_time_question">How much time can you devote for revision each day?</string>
+    <string name="minutes_30">30 min</string>
+    <string name="hour_1">1 hour</string>
+    <string name="hour_1_5">1.5 hours</string>
+    <string name="hours_2">2 hours</string>
+    <string name="custom">Custom</string>
+    <string name="generate_plan">Generate Plan</string>
+    
+    <!-- Navigation -->
+    <string name="nav_plan">Plan</string>
+    <string name="nav_subjects">Subjects</string>
+    <string name="nav_progress">Progress</string>
+    
+    <!-- Plan Screen -->
+    <string name="revision_plan">Revision Plan</string>
+    <string name="today">Today</string>
+    <string name="no_topics_today">No topics scheduled for today</string>
+    <string name="mark_complete">Mark as Complete</string>
+    
+    <!-- Progress Screen -->
+    <string name="overall_progress">Overall Progress</string>
+    <string name="topics_completed">Topics Completed</string>
+    <string name="topics_pending">Topics Pending Today</string>
+    <string name="topics_overdue">Overdue Topics</string>
+    
+    <!-- Subjects Screen -->
+    <string name="your_subjects">Your Subjects</string>
+    <string name="no_subjects">No subjects yet</string>
+    <string name="add_first_subject">Add your first subject to get started</string>
+    <string name="topics_count">%d topics</string>
+    
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="delete_subject_message">Are you sure you want to delete this subject and all its topics?</string>
+    <string name="regenerate_plan">Regenerate Plan</string>
+    <string name="done">Done</string>
+</resources>

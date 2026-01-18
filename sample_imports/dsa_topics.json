@@ -1,0 +1,166 @@
+{
+  "subject": "Data Structures & Algorithms",
+  "color": "#4285F4",
+  "topics": [
+    {
+      "name": "Arrays and Two Pointers",
+      "type": "CODE",
+      "difficulty": "EASY",
+      "duration": 30,
+      "priority": 3,
+      "tags": "Important, Exam-likely"
+    },
+    {
+      "name": "Linked Lists",
+      "type": "CODE",
+      "difficulty": "MEDIUM",
+      "duration": 45,
+      "priority": 2,
+      "tags": "Important"
+    },
+    {
+      "name": "Stacks and Queues",
+      "type": "CODE",
+      "difficulty": "EASY",
+      "duration": 30,
+      "priority": 2,
+      "tags": ""
+    },
+    {
+      "name": "Binary Trees",
+      "type": "CODE",
+      "difficulty": "MEDIUM",
+      "duration": 45,
+      "priority": 3,
+      "tags": "Important, Exam-likely"
+    },
+    {
+      "name": "Binary Search Trees",
+      "type": "CODE",
+      "difficulty": "MEDIUM",
+      "duration": 40,
+      "priority": 2,
+      "tags": "Important"
+    },
+    {
+      "name": "Heaps and Priority Queues",
+      "type": "CODE",
+      "difficulty": "MEDIUM",
+      "duration": 35,
+      "priority": 2,
+      "tags": ""
+    },
+    {
+      "name": "Hash Tables",
+      "type": "CODE",
+      "difficulty": "EASY",
+      "duration": 25,
+      "priority": 3,
+      "tags": "Important, Exam-likely"
+    },
+    {
+      "name": "Graphs - BFS & DFS",
+      "type": "CODE",
+      "difficulty": "MEDIUM",
+      "duration": 50,
+      "priority": 3,
+      "tags": "Important, Weak-area"
+    },
+    {
+      "name": "Dijkstra's Algorithm",
+      "type": "CODE",
+      "difficulty": "HARD",
+      "duration": 45,
+      "priority": 2,
+      "tags": "Weak-area"
+    },
+    {
+      "name": "Dynamic Programming Basics",
+      "type": "CODE",
+      "difficulty": "HARD",
+      "duration": 60,
+      "priority": 3,
+      "tags": "Important, Exam-likely, Weak-area"
+    },
+    {
+      "name": "Recursion and Backtracking",
+      "type": "CODE",
+      "difficulty": "MEDIUM",
+      "duration": 45,
+      "priority": 2,
+      "tags": "Important"
+    },
+    {
+      "name": "Sorting Algorithms",
+      "type": "CODE",
+      "difficulty": "MEDIUM",
+      "duration": 40,
+      "priority": 3,
+      "tags": "Exam-likely"
+    },
+    {
+      "name": "Binary Search Patterns",
+      "type": "CODE",
+      "difficulty": "MEDIUM",
+      "duration": 35,
+      "priority": 3,
+      "tags": "Important, Exam-likely"
+    },
+    {
+      "name": "Sliding Window Technique",
+      "type": "CODE",
+      "difficulty": "MEDIUM",
+      "duration": 30,
+      "priority": 2,
+      "tags": "Important"
+    },
+    {
+      "name": "Greedy Algorithms",
+      "type": "CODE",
+      "difficulty": "MEDIUM",
+      "duration": 40,
+      "priority": 2,
+      "tags": ""
+    },
+    {
+      "name": "Trie Data Structure",
+      "type": "CODE",
+      "difficulty": "HARD",
+      "duration": 35,
+      "priority": 1,
+      "tags": ""
+    },
+    {
+      "name": "Union Find / Disjoint Set",
+      "type": "CODE",
+      "difficulty": "HARD",
+      "duration": 40,
+      "priority": 1,
+      "tags": "Weak-area"
+    },
+    {
+      "name": "Time & Space Complexity",
+      "type": "THEORY",
+      "difficulty": "EASY",
+      "duration": 20,
+      "priority": 3,
+      "tags": "Important, Exam-likely"
+    },
+    {
+      "name": "LeetCode Pattern - Intervals",
+      "type": "CODE",
+      "difficulty": "MEDIUM",
+      "duration": 35,
+      "priority": 2,
+      "tags": ""
+    },
+    {
+      "name": "LeetCode Pattern - Matrix",
+      "type": "CODE",
+      "difficulty": "MEDIUM",
+      "duration": 40,
+      "priority": 2,
+      "tags": ""
+    }
+  ]
+}
